@@ -24,12 +24,12 @@ Experience the laughter firsthand! Visit the [LOLinator Live Demo](https://sachi
 
 Behold the memes that will crack you up:
 
-![Meme 1](![image](https://github.com/SachinMhetre678/Meme_Generator/assets/138901374/ad5abd08-b46a-4ee9-aaeb-6dd69677b402)
-)
+![Screenshot 2024-01-28 150428](https://github.com/SachinMhetre678/LOLinator/assets/138901374/2e07ddcf-7c8f-410e-a60b-3a41db9e6908)
+
 *Caption: When Monday hits you like...*
 
-![Meme 2](![image](https://github.com/SachinMhetre678/Meme_Generator/assets/138901374/28980536-97d5-46d4-afaa-b33f720abb30)
-)
+![Screenshot 2024-01-28 150358](https://github.com/SachinMhetre678/LOLinator/assets/138901374/538a5c5e-2945-4ad8-91be-3069e990e5e6)
+
 *Caption: Trying to adult like...*
 
 ## 🚀 Features that Bring the LOLs
